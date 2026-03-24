@@ -69,6 +69,4 @@
 ## 🧩 Citation dev
 > "Code. Break. Fix. Repeat."
 
-<p align="center">
-  💀 Si t'es arrivé jusqu'ici, t'es un vrai.
-</p>
+
