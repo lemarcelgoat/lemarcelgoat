@@ -21,14 +21,13 @@
 
 ---
 
-## 🐍 Contribution Snake (version full vert)
+## 🐍 Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/lemarcelgoat/lemarcelgoat/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/lemarcelgoat/lemarcelgoat/output/github-snake.svg" />
-    <img alt="snake"
-      src="https://raw.githubusercontent.com/lemarcelgoat/lemarcelgoat/output/github-snake.svg" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=lemarcelgoat&theme=tokyonight&hide_border=true" />
   </picture>
 </p>
