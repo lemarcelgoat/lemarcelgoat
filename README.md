@@ -23,5 +23,5 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lemarcelgoat/snakes/main/green-snake.svg" width="600" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake-green.svg" width="600" />
 </p>
