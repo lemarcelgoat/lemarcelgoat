@@ -22,32 +22,13 @@
 ---
 
 ## 🐍 Contribution Snake (version full vert)
-
 <p align="center">
-
-<svg width="600" height="120" viewBox="0 0 600 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- fond de cases -->
-  <rect width="600" height="120" fill="transparent"/>
-
-  <!-- serpent (chaque carré = contribution) -->
-  <rect x="0"   y="50" width="20" height="20" fill="#4CAF50"/>
-  <rect x="20"  y="50" width="20" height="20" fill="#43A047"/>
-  <rect x="40"  y="50" width="20" height="20" fill="#388E3C"/>
-  <rect x="60"  y="50" width="20" height="20" fill="#4CAF50"/>
-  <rect x="80"  y="50" width="20" height="20" fill="#43A047"/>
-  <rect x="100" y="50" width="20" height="20" fill="#388E3C"/>
-  <rect x="120" y="50" width="20" height="20" fill="#4CAF50"/>
-  <rect x="140" y="50" width="20" height="20" fill="#43A047"/>
-  <rect x="160" y="50" width="20" height="20" fill="#388E3C"/>
-  <rect x="180" y="50" width="20" height="20" fill="#4CAF50"/>
-  <rect x="200" y="50" width="20" height="20" fill="#43A047"/>
-  <rect x="220" y="50" width="20" height="20" fill="#388E3C"/>
-  <rect x="240" y="50" width="20" height="20" fill="#4CAF50"/>
-  <rect x="260" y="50" width="20" height="20" fill="#43A047"/>
-  <rect x="280" y="50" width="20" height="20" fill="#388E3C"/>
-  <rect x="300" y="50" width="20" height="20" fill="#4CAF50"/>
-
-</svg>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/lemarcelgoat/lemarcelgoat/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/lemarcelgoat/lemarcelgoat/output/github-snake.svg" />
+    <img alt="snake"
+      src="https://raw.githubusercontent.com/lemarcelgoat/lemarcelgoat/output/github-snake.svg" />
+  </picture>
 </p>
